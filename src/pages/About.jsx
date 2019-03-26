@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+// IMPORTING TYPESCRIPT FROM JAVASCRIPT
 import { add } from './add.ts';
 
 export default function About() {
